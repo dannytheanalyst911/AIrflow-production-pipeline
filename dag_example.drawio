@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T22:32:56.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QElmRBlrOYZ1DM5v5ktl" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T22:36:31.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kBlfMn14e20cFMVRbQsT" version="22.1.5" type="github">
   <diagram name="Page-1" id="OfiHsm9KuXkVkmhNxkO_">
     <mxGraphModel dx="1066" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,10 +17,10 @@
           <mxGeometry x="570" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-NLPm4noqBJT1jTvV0q9-6" value="Email task&lt;br&gt;(weekday)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="150" width="110" height="110" as="geometry" />
+          <mxGeometry x="760" y="140" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-NLPm4noqBJT1jTvV0q9-7" value="No email&lt;br&gt;(weekend)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="310" width="110" height="110" as="geometry" />
+          <mxGeometry x="760" y="300" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-NLPm4noqBJT1jTvV0q9-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="260" width="70" height="40" as="geometry" />
@@ -31,11 +31,11 @@
         <mxCell id="-NLPm4noqBJT1jTvV0q9-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="500" y="260" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-NLPm4noqBJT1jTvV0q9-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="680" y="180" width="90" height="70" as="geometry" />
+        <mxCell id="-NLPm4noqBJT1jTvV0q9-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-30;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="690" y="200" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-NLPm4noqBJT1jTvV0q9-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=16.46;dx=44.12;notch=0;arrowHead=55;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="280" width="120" height="80" as="geometry" />
+        <mxCell id="-NLPm4noqBJT1jTvV0q9-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=30;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="690" y="300" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
