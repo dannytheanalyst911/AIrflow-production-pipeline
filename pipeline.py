@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 # Update the default arguments and apply them to the DAG.
 
 default_args = {
-  'start_date': datetime(2019,1,1),
+  'start_date': datetime(2023,12,1),
   'sla': timedelta(minutes=90)
 }
     
